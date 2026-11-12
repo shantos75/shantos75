@@ -6,5 +6,3 @@ aprendiendo programacion
 
 ### :rocket: sobre mi
 
--:mortal_doard: Estudiante 
--:telescope: aprendiendo 

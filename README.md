@@ -3,5 +3,3 @@
 ### :computer: estudiante de informatica
 
 aprendiendo programacion
-
-

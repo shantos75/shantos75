@@ -4,5 +4,4 @@
 
 aprendiendo programacion
 
-### :rocket: sobre mi
 
